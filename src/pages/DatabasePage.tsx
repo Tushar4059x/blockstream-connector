@@ -28,7 +28,8 @@ import {
   Save, 
   Shield, 
   Table, 
-  Terminal
+  Terminal,
+  Plus
 } from 'lucide-react';
 
 const DatabasePage = () => {
